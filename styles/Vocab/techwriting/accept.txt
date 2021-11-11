@@ -1,0 +1,177 @@
+
+
+Access Analyzer
+access control list
+access identifiers
+access key
+access key ID
+access policy language
+ACL
+ACM
+Agile
+ALB
+Amazon Aurora
+Ansible
+Apache
+API
+API Gateway
+Application Release Automation
+AppStream
+ARA
+artifact
+Artifactory
+ASG
+Asterisk
+Aurora
+Auto Scaling
+Auto Scaling Group
+AWS
+AWS Certificate Manager
+AWS CLI
+Bento
+build agent
+build artifact repository
+Chef
+Chocolatey
+CI/CD
+CI/CD
+CloudFormation
+Cloudfront
+CloudSearch
+CloudSearch
+CloudSearch
+CloudTrail
+CloudWatch
+CloudWatch
+CodeCommit
+CodeDeploy
+CodePipeline
+Cognito
+Config
+configuration drift
+configuration management
+containerization
+continuous delivery
+continuous deployment
+continuous integration
+Continuous Integration/Continuous Delivery
+continuous quality
+continuous testing
+CoreOS
+credentials
+CruiseControl
+Datadog
+Data Pipeline
+deployment pipeline
+dev
+Device Farm
+Django
+Dockerfile
+Docker Swarm
+DynamoDB
+EBS
+EC2
+EC2
+EC2 Container Service
+EKS
+EKS
+Elasticache
+Elastic Beanstalk
+Elastic Computer Service for Kubernetes
+Elastic Map Reduce
+ElasticSearch
+Elastic Transcoder
+event-driven architecture
+exploratory testing
+fail fast
+Fargate
+Foreman
+Ganglia
+Git
+GitHub
+GitHub
+GitHub
+GitLab
+Glacier
+Gradle
+Grafana
+Hadoop
+Helm
+IaaS
+IaaS
+IaC
+IAM
+InfluxDB
+Infrastructure-as-a-Service
+Inspector
+I/O
+issue tracking
+Jcloud
+Jenkins
+Jenkins
+JuJu
+Kafka
+Kibana
+Kinesis
+Kinesis
+Kubernetes
+Lambda
+lead time
+Logstash
+mean time between failures
+mean time to recovery
+Memcached
+microservices architecture
+Mobile Analytics
+model-based testing
+MongoDB
+MTBF
+MTTR
+Nginx
+OpenShift
+OpenStack
+OpsGenie
+OpsWorks
+OSV
+PaaS
+Packer
+Pagerduty
+Platform-as-a-Service
+playbook
+prod
+Prometheus
+QA
+quality assurance
+RabbitMQ
+RDS
+RedShift
+Route53
+S3
+SaltStack
+self-service deployment
+Service Catalog
+SES
+Simple Storage Service
+Simple Workflow Service
+Snowball
+SNS
+source control
+SQS
+staging environment
+Storage Gateway
+Sublime Text
+SumoLogic
+SWF
+technical debt
+Terraform
+Travis CI
+Trusted Advisor
+Vagrant
+VM
+VPC
+VPC
+WAF
+WorkDocs
+WorkMail
+Workspaces
+Zabbix

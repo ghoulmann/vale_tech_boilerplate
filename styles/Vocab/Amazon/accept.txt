@@ -1,0 +1,68 @@
+Access Analyzer
+ACL
+access control list
+access identifiers
+credentials
+access key
+access key ID
+access policy language
+ACM
+AWS Certificate Manager
+CloudSearch
+Kinesis
+GitHub
+Hadoop
+Auto Scaling
+CloudSearch
+EC2
+IAM
+S3
+Simple Storage Service
+VPC
+Lambda
+API Gateway
+RDS
+Route53
+SES
+Cloudfront
+CloudSearch
+DynamoDB
+Elasticache
+Elastic Transcoder
+SQS
+WAF
+Cognito
+Device Farm
+Mobile Analytics
+SNS
+CodeCommit
+GitHub
+CodeDeploy
+CodePipeline
+EC2 Container Service
+Elastic Beanstalk
+AppStream
+WorkDocs
+WorkMail
+Workspaces
+Service Catalog
+Storage Gateway
+Data Pipeline
+Elastic Map Reduce
+Glacier
+Kinesis
+RedShift
+SWF
+Simple Workflow Service
+Snowball
+CloudFormation
+CloudTrail
+CloudWatch
+Config
+OpsWorks
+Trusted Advisor
+Inspector
+AWS
+EKS
+Kubernetes
+

@@ -1,0 +1,16 @@
+blackhat
+blacklist
+blind
+dummy
+he
+her
+hers
+him
+his
+master
+sanity check
+Sanity Check
+she
+slave
+whitehat
+whitelist
