@@ -1,6 +1,8 @@
-# vale-boilerplate
+# Technical Writing Boilerplate for Vale
 
-Try cloudsearch. This is an repository showcases the basic components of Vale's configuration: a `StylesPath` (`/styles`), a configuration file (`/.vale.ini`), and markup content (this file).
+This is an repository with a Vales configuration for technical writers (DevOps): a `StylesPath` (`/styles`), a configuration file (`/.vale.ini`), and markup content (this file).
+
+The styles path is populated.
 
 Try it out by running `vale README.md` from your command line.
 
