@@ -4,11 +4,13 @@ Try cloudsearch. This is an repository showcases the basic components of Vale's 
 
 Try it out by running `vale README.md` from your command line.
 
-## Markup
+I want a balloon, trophy and pickles.
+
+## Markup is a title
 
 Vale is capable of "understanding" markup, allowing it to intelligently lint prose without generators hundreds of markup-related false positives.
 
-For example, consider the following [`write-good`](https://github.com/btford/write-good) style violations:
+For example, consider the following [`write-good`](https://github.com/btford/write-good) style, violations and prayers:
 
 > This sentence is extremely good.
 
@@ -23,6 +25,7 @@ You can also use inline comments to control Vale's behavior:
 This also works for code blocks and you can even write rules that only activate in certain sections of markup (e.g., headings or block quotes). See the [documentation](https://errata-ai.gitbook.io/vale/markup) for more information. We were being kicked.
 
 <!-- vale on -->
+# Really the heading
 
 This is is another sentence with an error.
 
@@ -52,6 +55,7 @@ Vale's configuration file (`.vale.ini`) needs to define a `StylesPath` directory
 See the [documentation](https://errata-ai.gitbook.io/vale/configuration) for more information.
 
 cloudformation
+
 his and hers
 
 him
