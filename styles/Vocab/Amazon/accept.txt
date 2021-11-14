@@ -27,7 +27,7 @@ SES
 Cloudfront
 CloudSearch
 DynamoDB
-Elasticache
+ElastiCache
 Elastic Transcoder
 SQS
 WAF
@@ -65,4 +65,9 @@ Inspector
 AWS
 EKS
 Kubernetes
+Redis
+Memcached
+MySQL
+PostgreSQL
+Docker
 

@@ -1,5 +1,3 @@
-
-
 Access Analyzer
 access control list
 access identifiers
@@ -34,14 +32,10 @@ build artifact repository
 Chef
 Chocolatey
 CI/CD
-CI/CD
 CloudFormation
-Cloudfront
-CloudSearch
-CloudSearch
+CloudFront
 CloudSearch
 CloudTrail
-CloudWatch
 CloudWatch
 CodeCommit
 CodeDeploy
@@ -54,7 +48,6 @@ containerization
 continuous delivery
 continuous deployment
 continuous integration
-Continuous Integration/Continuous Delivery
 continuous quality
 continuous testing
 CoreOS
@@ -66,18 +59,17 @@ deployment pipeline
 dev
 Device Farm
 Django
+Docker
 Dockerfile
 Docker Swarm
 DynamoDB
 EBS
 EC2
-EC2
-EC2 Container Service
-EKS
 EKS
 ElastiCache
 Elastic Beanstalk
 Elastic Computer Service for Kubernetes
+Elastic Map Reduce
 Elastic Map Reduce
 ElasticSearch
 Elastic Transcoder
@@ -89,15 +81,12 @@ Foreman
 Ganglia
 Git
 GitHub
-GitHub
-GitHub
 GitLab
 Glacier
 Gradle
 Grafana
 Hadoop
 Helm
-IaaS
 IaaS
 IaC
 IAM
@@ -108,14 +97,13 @@ I/O
 issue tracking
 Jcloud
 Jenkins
-Jenkins
 JuJu
 Kafka
 Kibana
 Kinesis
-Kinesis
 Kubernetes
 Lambda
+Lambda function
 lead time
 Logstash
 mean time between failures
@@ -127,6 +115,7 @@ model-based testing
 MongoDB
 MTBF
 MTTR
+MySQL
 Nginx
 OpenShift
 OpenStack
@@ -138,12 +127,14 @@ Packer
 Pagerduty
 Platform-as-a-Service
 playbook
+PostgreSQL
 prod
 Prometheus
 QA
 quality assurance
 RabbitMQ
 RDS
+Redis
 RedShift
 Route53
 S3
@@ -153,11 +144,13 @@ Service Catalog
 SES
 Simple Storage Service
 Simple Workflow Service
+Simple Workflow Service
 Snowball
 SNS
 source control
 SQS
 staging environment
+Storage Gateway
 Storage Gateway
 Sublime Text
 SumoLogic
@@ -168,7 +161,6 @@ Travis CI
 Trusted Advisor
 Vagrant
 VM
-VPC
 VPC
 WAF
 WorkDocs
