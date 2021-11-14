@@ -1,0 +1,13 @@
+extends: capitalization
+message: "'%s' should use title-style capitalization."
+link: https://docs.microsoft.com/en-us/style-guide/capitalization
+level: suggestion
+scope: heading
+match: $title
+indicators:
+  - ':'
+exceptions:
+  - an
+  - a
+  - with
+  - by

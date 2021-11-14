@@ -1,0 +1,8 @@
+extends: occurrence
+message: "More than one H1."
+level: error
+scope: heading.h1
+max: 1
+tokens:
+  - '.'
+

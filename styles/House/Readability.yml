@@ -1,0 +1,11 @@
+extends: readability
+message: "Grade level (%s) suggests this will be difficult to read comfortably."
+level: warning
+scope: text
+grade: 9
+metrics:
+  - Flesch-Kincaid
+  - Gunning Fog
+  - Coleman-Liau
+  - Automated Readability
+  - SMOG

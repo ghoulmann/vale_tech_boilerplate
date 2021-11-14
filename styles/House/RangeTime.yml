@@ -11,4 +11,4 @@ action:
     - '[-–]'
     - 'to'
 tokens:
-  - '\b(?:AM|PM)\s?[-–]\s?.+(?:AM|PM)\b'
+  - '\b(?:a.m.|p.m.)\s?[-–]\s?.+(?:a.m.|p.m.)\b'

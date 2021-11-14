@@ -1,0 +1,16 @@
+extends: existence
+message: "'%s' contains a nominalization"
+ignorecase: true
+level: warning
+match: $word
+scope: sentence
+tokens:
+  - '.*ty'
+  - '.*ion'
+  - '.*ment'
+  - '.*ence'
+  - '.*ism'
+  - '.*ty'
+  - '.*ing'
+exceptions:
+  - '[cC]loud[fF]ormation'

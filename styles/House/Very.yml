@@ -1,6 +1,6 @@
 extends: existence
 message: "Remove '%s'."
 ignorecase: true
-level: error
+level: suggestion
 tokens:
   - very

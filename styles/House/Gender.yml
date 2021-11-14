@@ -1,9 +1,16 @@
 extends: existence
-message: "Don't use '%s'."
+message: "Don't use '%s'. Prefer using they or their, even when singular"
 link: https://github.com/MicrosoftDocs/microsoft-style-guide/blob/master/styleguide/grammar/nouns-pronouns.md#pronouns-and-gender
 level: error
 ignorecase: true
 
 tokens:
   - he/she
+  - she/he
   - s/he
+  - he
+  - she
+  - her
+  - him
+  - his
+  - hers
