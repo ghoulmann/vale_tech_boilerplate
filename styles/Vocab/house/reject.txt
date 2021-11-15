@@ -2,11 +2,6 @@ blackhat
 blacklist
 blind
 dummy
-he
-her
-hers
-him
-his
 master
 sanity check
 Sanity Check
@@ -19,14 +14,9 @@ sanity check
 Sanity Check
 blackhat
 whitehat
-he
-him
-his
-she
-her
-hers
 master
 slave
 blind
 whitelist
 blacklist
+open kimono

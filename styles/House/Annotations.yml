@@ -1,7 +1,7 @@
 extends: existence
-message: "'%s' left in text."
+message: "'%s' annotation in text."
 ignorecase: false
-level: error
+level: warning
 tokens:
   - FIXME
   - TODO

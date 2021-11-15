@@ -1,6 +1,5 @@
 extends: capitalization
-message: "'%s' should use title-style capitalization."
-link: https://docs.microsoft.com/en-us/style-guide/capitalization
+message: "'%s' should use title-style capitalization"
 level: suggestion
 scope: heading
 match: $title
