@@ -2,7 +2,7 @@
 
 This is a repository with a Vales configuration for technical writers in the fields of DevOps and cloud engineering): a [`StylesPath` (`/styles`),](/styles) a configuration file (`[/.vale.ini](/.vale.ini)`), a [Vocab path (`/styles/Vocab`)](/styles/vocab) and markup content (this file).
 
-The styles path is populated. It has selected .yml files from the predefined [Microsoft](https://github.com/errata-ai/Microsoft), [Google](https://github.com/errata-ai/Google), [write-good](https://github.com/errata-ai/write-good), and [proselint](https://github.com/errata-ai/proselint) styles. 
+The styles path is populated. It has selected .yml files from the predefined [Microsoft](https://github.com/errata-ai/Microsoft), [Google](https://github.com/errata-ai/Google), [write-good](https://github.com/errata-ai/write-good), and [proselint](https://github.com/errata-ai/proselint) styles.
 
 It also has original style directives:
 
